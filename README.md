@@ -1,6 +1,6 @@
 ## Blue Team Incident Response Lab
 
-This project simulates a real-world cybersecurity incident and demonstrates how a Blue Team responds, investigates, and mitigates the threat.
+This project simulates a real-world cybersecurity incident and demonstrates how a Blue team responds, investigates, and mitigates the threat.
 
 ---
 
@@ -53,6 +53,6 @@ This project reflects real-world tasks:
 
 ---
 
-## 📌 Key Insight
+## Key Insight
 
 Incident response is about speed, accuracy, and structured thinking.
